@@ -1,26 +1,26 @@
-# Online-Sales-Performance-Dashboard-Tableau-
+# Online-Sales-Performance-Dashboard using Tableau
 
 <img width="1535" height="795" alt="Screenshot 2025-12-03 170725" src="https://github.com/user-attachments/assets/006f15aa-4ef2-464a-9db2-cf992b74434e" />
 
-** Project Overview **
+ Project Overview 
 
 This project analyzes online sales data to understand revenue performance across product categories, regions, payment methods, and individual products. Using a Tableau interactive dashboard, the goal is to uncover trends, identify top-performing products, and support better business decisions for e-commerce operations.
 
-** Dataset Description **
+Dataset Description 
 
 The dataset contains listing-level data for Airbnb rentals in New York City, including:
 •	Sales Information: Order ID, Date of Purchase ,Product Sold, Product Category, Unit Sold Total Revenue.
 •	Customer & Region: Customer Location / Region.
 •	Payment & Transaction: Payment Method (Credit Card, Debit Card, Paypal), Transaction Count.
 
-** Business objective **
+ Business objective 
 •	Identify which product categories generate the highest revenue
 •	Understand top-selling products and category-wise sales volume
 •	Explore payment method preferences among customers
 •	Track revenue performance across different regions
 •	Examine revenue trends over time to identify seasonality or growth patterns.
 
-** key business questions **
+key business questions 
 Category Performance
   1. Which product category contributes the most revenue?
   2. Which categories have high unit sales but low revenue?
@@ -37,14 +37,18 @@ Time Based Analysis
       1.How does revenue fluctuate month by month?
       2.Are there spikes during specific seasons or compaigns?
      
-** Tools & Technologies **
+ Tools & Technologies 
 •	Tableau Desktop(Dashboard creation)
+
 •	Data cleaning
+
 •	Computed fields(Revenue trends, aggregation)
+
 •	Map visualization for regional insights
+
 •	Bar charts, Pie charts, Line charts 
 
-** Insights (Sample Findings) **
+Insights (Sample Findings) 
 1.	Revenue by Category
 •	Electronics is the highest grossing category (~35k),followed by Home Appliances and sports.
 •	Categories like Books and Beauty Products generate minimal revenue.
@@ -63,7 +67,7 @@ Time Based Analysis
 •	Electronics and home appliances have the highest unit sold.
 •	Books and beauty products have low unit sales.
 
-** Future Enhancements ** 
+Future Enhancements  
 1.	Integrate the dashboard with real time sales API for automatic updates.
 2.	Add forecasting models for sales prediction.
 3.	Implement customer segmentation(new vs repeat buyers).
